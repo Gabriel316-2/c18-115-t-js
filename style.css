@@ -96,3 +96,7 @@ hr {
   --bs-pagination-active-bg: orange;
   --bs-pagination-active-color: #ad49dd;
 }
+
+.bg-body-tertiary {
+  background-color: #4a1562 !important;
+}
