@@ -32,11 +32,10 @@ La web app de PetHome busca beneficiar tanto a las mascotas como a los propietar
 
 ### BACKEND
 
-<div align="left">
-  <img width="12" src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo-thumbnail.png" height="100" alt="xampp logo" />
-  <img width="12" src="https://www.php.net/images/logos/new-php-logo.svg" height="100" alt="Logo de PHP" />
+<div style="text-align: center;">
+  <img src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo-thumbnail.png" height="100" alt="xampp logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="100" alt="Logo de PHP" style="display: inline-block;" />
 </div>
-
 
 
 ### TESTING
