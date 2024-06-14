@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://cdn.glitch.global/131a65ac-5114-4b9a-bcd3-1e6e14a73ccc/Captura.JPG?v=1718326725631"  />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://cdn.glitch.global/131a65ac-5114-4b9a-bcd3-1e6e14a73ccc/Captura.JPG?v=1718326725631" style="width: 100%; height: auto;" />
 </div>
 
 # C18-C115-T-JS
