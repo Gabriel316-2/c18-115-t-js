@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.glitch.global/e256b616-fddc-47df-8bff-5415cfe4d67b/Captura.JPG?v=1718257288246"  />
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 # C18-C115-T-JS
@@ -36,10 +36,6 @@ La web app de PetHome busca beneficiar tanto a las mascotas como a los propietar
   <img width="12" />
 <img src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo-thumbnail.png" height="100" alt="xampp logo"  />
 </div>
-<div align="left">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="Logo de PHP" />
-</div>
-
 
 ### TESTING
 
