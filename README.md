@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://cdn.glitch.global/131a65ac-5114-4b9a-bcd3-1e6e14a73ccc/Captura.JPG?v=1718326725631"  />
 </div>
 
 # C18-C115-T-JS
@@ -36,6 +36,11 @@ La web app de PetHome busca beneficiar tanto a las mascotas como a los propietar
   <img width="12" />
 <img src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo-thumbnail.png" height="100" alt="xampp logo"  />
 </div>
+<div align="left">
+<img width="12" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="100" alt="Logo de PHP" />
+</div>
+
 
 ### TESTING
 
@@ -50,4 +55,4 @@ La web app de PetHome busca beneficiar tanto a las mascotas como a los propietar
 |--------------------|--------------------------|------------------------------------------------|
 | Camila Gonzalez    | Diseñadora UI/UX QA tester | https://www.linkedin.com/in/camilagonzalez2306, gonzalezcamila.s2306@gmail.com |
 | Gabriel Correa     | Desarrollador Frontend   | https://www.linkedin.com/in/gabriel-correa-791b4328b/, gabi.alejcorrea@gmail.com |
-| Lisbeth Mujica     | Desarrollador Frontend   | linkedin.com/in/lisbeth-mujica-a21530183, lisbethsofia65@gmail.com |
+| Lisbeth Mujica     | Desarrollador Backend    | linkedin.com/in/lisbeth-mujica-a21530183, lisbethsofia65@gmail.com |
